@@ -10,4 +10,4 @@ function Coffee() {
         })
 }
 Coffee();
-setInterval(Coffee, 5000);
+setInterval(Coffee, 4000);
